@@ -1,6 +1,6 @@
 커밋 안했어 
 config --global user.email ggg0811@daum.net
-
+수정하면 이부분만 추가 된다 신기하지?
 아니 커밋 다시 ㄱㄱ
 브랜치 main으로 바꿔
 git branch -M main 
